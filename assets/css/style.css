@@ -58,7 +58,7 @@ a {
 /*hero-image is is a large image placed at the top of the webpage. 
 The property value will creat a margine on the bottom of the picture.
 */
-.hero-image {
+.hero {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
