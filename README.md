@@ -24,7 +24,7 @@ SO THAT our own site is optimized for search engines
 
 This project was created to show my understandimg of what I learned on basic HTML and CSS functions and relations during the first week of the bootcamp. 
 
-The main critiria was to make the example html code more accesible for screen readers and other users. To do that I had to change non-semantic elements to semantic elements add "alt" attributes to Images.
+The main critiria was to make the example html code more accesible for screen readers and other users. To do that I had to change non-semantic elements to semantic elements add "alt" attributes to Images and chnage some background colors to achive correct contrast levels
 
 Semantic HTML means using correct HTML elements for their correct purpose as much as possible. Semantic elements are elements with a meaning.
 * Examples of non-semantic elements: **nav** and **span**, these tell nothing about their content.
@@ -40,9 +40,7 @@ I have also added comments in the html and css files to explain functionality an
 
 The link to deployed application is: https://esztergb.github.io/Horiseon-Marketing/
 
-![ScreenShot](assets/images/Screenshots/Screenshot%201.png)
-![Screenshot](assets/images/Screenshots/Screenshot%202.png)
-
+![ScreenShot](assets/images/Screenshot%20of%20full%20Website.png)
 
 ## Usage
 
@@ -51,11 +49,8 @@ This project was created to incorporate informations shared on basic HTML and CS
 ## Credits
 
 Thank you for tips and sugestions from Bootcamp instructors and classmates. 
-I have used w3schools.com and 
+I have used https://www.w3schools.com/ and https://www.stackoverflow.com to research information.
 
 ## License
 
 N/A - Bootcamp Challange 1
-
-
-[def]: screenshot.png
