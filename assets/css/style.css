@@ -1,9 +1,12 @@
+
+/* '*' is a universal selector in CSS, ot selects all elements and has no specificity*/
+/* border-box tells the browser to account for any border and padding in the values you specify for an element's width and height. If you set an element's width to 100 pixels, that 100 pixels will include any border or padding you added, and the content box will shrink to absorb that extra width.*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* below code means that the background color will be as specified in the entire body section*/
 body {
     background-color: #d9dcd6;
 }
@@ -15,6 +18,7 @@ body {
     color: #ffffff;
 }
 
+/* 'display: inline-block' will display list items horizontally instead of vertically in the header setion */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -46,6 +50,7 @@ a {
     text-decoration: none;
 }
 
+/* the font-size in every paragraph to be 16px*/
 p {
     font-size: 16px;
 }
